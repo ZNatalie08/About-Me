@@ -4,7 +4,4 @@
 - 📫 How to reach me nataliyazayvoda634@gmail.com
 - ⚡ Fun fact: University of Calgary 3rd undergrad
 
-<!---
-ZNatalie08/ZNatalie08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>>> checkout my gist: <script src="https://gist.github.com/ZNatalie08/c0756a5ab10de030a6c165676d1cc3d4.js"></script>
