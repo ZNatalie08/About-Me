@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZNatalie08
-- 👀 I’m interested in data analytics and finance
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Natalie
+- 👀 I’m interested in all things math and finance
+- 🌱 I’m currently learning about applications of math and stats in finance
 - 📫 How to reach me nataliyazayvoda634@gmail.com
-- ⚡ Fun fact: University of Calgary 3rd undergrad
+- ⚡ Fun fact: Big fan of Anne Perry's Charlotte and Thomas Pitt series
 
